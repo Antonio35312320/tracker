@@ -55,14 +55,4 @@ Phone Number Tracker is a Python application built using Tkinter and various API
 7. The "Export History" option in the menu exports the history of searched phone numbers to a CSV file named `phone_number_history.csv`.
 8. Use the "Copy to Clipboard" button to copy all displayed details to the clipboard for easy sharing or saving.
 
-## Contributing
 
-Contributions are welcome! Here's how you can contribute to this project:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-new-feature`).
-3. Make modifications and commit changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-new-feature`).
-5. Create a new Pull Request.
-
-Please ensure your Pull Request adheres to the code style used in the project and includes relevant tests and documentation updates if applicable.
